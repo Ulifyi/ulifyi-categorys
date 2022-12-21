@@ -1,4 +1,4 @@
-[{value: 'none', label: 'Keine Katgorie'},
+      {value: 'none', label: 'Keine Katgorie'},
       {value: 'accounting', label: 'Buchhaltung'},
       {value: 'advertising_marketing', label: 'Werbung/Marketing'},
       {value: 'album', label: 'Album'},
@@ -48,5 +48,4 @@
       {value: 'delivery_service', label: 'Lieferdienst'},
       {value: 'furniture_store', label: 'Möbelgeschäft'},
       {value: 'garden_center', label: 'Gartencenter'},
-      {value: 'government_organization', label: 'Regierungsorganisation'}
- ]
+      {value: 'government_organization', label: 'Regierungsorganisation'},
